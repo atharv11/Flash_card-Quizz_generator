@@ -15,7 +15,9 @@ of large language models (LLMs) and genetic algorithms (GAs) to address the
 challenges and create an innovative solution. LLMs, known for their ability to
 process and generate human-like text, are utilized to create diverse study materials,
 including quizzes and flashcards, by analyzing input from lecture notes
-and related documents. This output is further refined and optimized using GAs,
+and related documents. 
+![image](https://github.com/user-attachments/assets/09d65a0c-f2bb-4a27-bd2f-97425f13052f)
+
 
  # Frontend & Backend
 The system combines a modern ReactJS front end with a robust Django backend to ensure efficiency, scalability, and accessibility. TailwindCSS provides a responsive, mobile-friendly UI, while Context API handles state management. Key features include PDF uploads, adaptive quizzes, and performance tracking.
@@ -95,3 +97,5 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+#This project was carried out under supervision of professors from otto Von Gueiricke University Magdeburg #
