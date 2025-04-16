@@ -1,5 +1,22 @@
 # AI-Powered Learning Assistant for Exam Preparation
 
+# Introduction
+Exam preparation poses a significant challenge for students due to the lack of
+comprehensive, high-quality study resources tailored to their individual needs.
+The diverse learning styles and varying levels of prior knowledge among students
+deepen this problem. Existing educational tools such as textbooks, lecture
+notes, and online platforms often remain generic and fail to cater to the unique
+requirements of each learner. This lack of personalization leads to inefficient
+study practices, where students spend considerable time filtering irrelevant information
+and attempting to adapt materials to their needs, ultimately hindering
+effective learning and retention.
+To improve the learning experience, this project integrates the capabilities
+of large language models (LLMs) and genetic algorithms (GAs) to address the
+challenges and create an innovative solution. LLMs, known for their ability to
+process and generate human-like text, are utilized to create diverse study materials,
+including quizzes and flashcards, by analyzing input from lecture notes
+and related documents. This output is further refined and optimized using GAs,
+
  # Frontend & Backend
 The system combines a modern ReactJS front end with a robust Django backend to ensure efficiency, scalability, and accessibility. TailwindCSS provides a responsive, mobile-friendly UI, while Context API handles state management. Key features include PDF uploads, adaptive quizzes, and performance tracking.
 
